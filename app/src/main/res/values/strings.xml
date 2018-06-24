@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HW4</string>
+    <string name="select_region_dialog_title">Spinner 對話視窗標題</string>
+    <string-array name="spn_list">
+        <item>Monday</item>
+        <item>TuesDay</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
